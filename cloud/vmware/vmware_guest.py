@@ -176,7 +176,6 @@ Example from Ansible playbook
        name: testvm-2
        datacenter: datacenter1
        cluster: cluster
-       validate_certs: False
        template: template_el7
        customize: True
        domain: "example.com"
